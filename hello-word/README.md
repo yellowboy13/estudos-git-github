@@ -25,3 +25,12 @@ Esta é minha primeira atividade prática utilizando o fluxo básico de trabalho
 Tutorial oficial do GitHub:
 
 https://docs.github.com/en/get-started/start-your-journey/hello-world
+
+## Minha primeira experiência com GitHub
+
+Estou realizando esta atividade para aprender o fluxo básico de trabalho do GitHub.
+
+### Hello World! 🌎
+
+Nesta atividade pratiquei a criação de uma branch, alteração de arquivos, commit, Pull Request e Merge.
+
